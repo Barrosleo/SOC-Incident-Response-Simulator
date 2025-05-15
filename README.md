@@ -16,14 +16,16 @@ SOC-Incident-Response-Simulator/
 ├── README.md
 ├── requirements.txt
 ├── docs/
-│ └── incident_report.json
+│   └── incident_report.json
 ├── data/
-│ └── synthetic_logs.csv └── src/
-├── main.py
-├── log_generator.py
-├── log_parser.py
-├── alert_triage.py
-├── dashboard.py └── response_report.py
+│   └── synthetic_logs.csv
+└── src/
+    ├── main.py
+    ├── log_generator.py
+    ├── log_parser.py
+    ├── alert_triage.py
+    ├── dashboard.py
+        └── response_report.py
 ```
 ## Installation & Usage
 
