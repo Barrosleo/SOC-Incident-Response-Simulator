@@ -34,5 +34,5 @@ This project can be edited and run entirely using GitHub Codespaces or the web e
 2. Install dependencies listed in `requirements.txt`.
 3. Run the application using:
 ```
-   `python src/main.py`
+python src/main.py
 ```
